@@ -50,7 +50,7 @@ result = Convert.ToDouble(a);
 
 
 
-![스크린샷 2017-12-03 오전 9.42.16](/Users/EunChan/Desktop/스크린샷 2017-12-03 오전 9.42.16.png)
+![윈프 계산기](./img/계산기.png)
 
 
 
